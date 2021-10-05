@@ -192,7 +192,7 @@ span2{
     align-items: center;
     background-color:lightgoldenrodyellow;
     grid-area: box1;
-    border: 5px solid lightcoral;
+    border: 5px solid chocolate;
 }
 
 .box2 {
@@ -201,7 +201,7 @@ span2{
     justify-content: center;
     background-color: wheat;
     grid-area: box2;
-    border: 5px solid lightcoral;
+    border: 5px solid chocolate;
 
 }
 
@@ -211,7 +211,7 @@ span2{
     align-items: center;
     justify-content: center;
     grid-area: box3;
-    border: 5px solid lightcoral;
+    border: 5px solid chocolate;
     background-color: lightgoldenrodyellow;
 }
 
@@ -222,7 +222,7 @@ span2{
     align-items: center;
     background-color: lightgoldenrodyellow;
     grid-area: box4;
-    border: 5px solid lightcoral;
+    border: 5px solid chocolate;
 }
 
 .box5 {
@@ -231,7 +231,7 @@ span2{
     justify-content: center;
     background-color: wheat;
     grid-area: box5;
-    border: 5px solid lightcoral;
+    border: 5px solid chocolate;
 
 }
 
@@ -241,7 +241,7 @@ span2{
     align-items: center;
     justify-content: center;
     grid-area: box6;
-    border: 5px solid lightcoral;
+    border: 5px solid chocolate;
     background-color: lightgoldenrodyellow;
 }
 
